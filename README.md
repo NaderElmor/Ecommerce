@@ -1,2 +1,0 @@
-# Ecommerce
-Pure PHP project.
